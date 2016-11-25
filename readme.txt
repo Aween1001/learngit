@@ -1,6 +1,8 @@
-learn git readme modify
+git learning tutorial 
 git status(show repository current state)
 git diff(show difference compare with last)
 git reset --hard HEAD^(version rollback)
 git log(show version historys. parameter:--pretty=oneline)
 git reflog(show all version historys)
+git remote add origin git@github.com:github-lqw/learngit.git(add remote repo)
+git push -u origin master(push local to remote)
