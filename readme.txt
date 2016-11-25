@@ -12,3 +12,4 @@ the last command to be equivalent to the fallowing two command:
   git branch dev(create a new branch 'dev')
   git checkout dev(switch to branch 'dev')
 git branch(show all branches)
+git merge dev(merge 'dev' to current branch)
