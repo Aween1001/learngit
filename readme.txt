@@ -11,3 +11,4 @@ git checkout -b dev(create a new branch 'dev' and switch it)
 the last command to be equivalent to the fallowing two command:
   git branch dev(create a new branch 'dev')
   git checkout dev(switch to branch 'dev')
+git branch(show all branches)
