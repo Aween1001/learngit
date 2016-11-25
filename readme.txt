@@ -15,6 +15,6 @@ the last command to be equivalent to the fallowing two command:
   git checkout dev(switch to branch 'dev')
 git branch(show all branches)
 git merge dev(merge 'dev' to current branch)
-git branch -d dev(delete branch 'dev')
+git branch -d dev(delete the branch 'dev')
 git log --graph --pretty=oneline --abbrev-commit(show branch merge situation)
 git merge --no-ff -m "merge with no-ff" dev(merge with no-ff)
