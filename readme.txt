@@ -1,4 +1,6 @@
 git learning tutorial 
+
+git init(create a local git repository)
 git status(show repository current state)
 git diff(show difference compare with last)
 git reset --hard HEAD^(version rollback)
