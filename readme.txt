@@ -8,3 +8,6 @@ git remote add origin git@github.com:github-lqw/learngit.git(add remote repo)
 git push -u origin master(push local to remote)
 git clone git@github.com:github-lqw/gitskills(clone a remote repository)
 git checkout -b dev(create a new branch 'dev' and switch it)
+the last command to be equivalent to the fallowing two command:
+  git branch dev(create a new branch 'dev')
+  git checkout dev(switch to branch 'dev')
