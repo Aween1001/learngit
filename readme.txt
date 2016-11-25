@@ -16,4 +16,4 @@ the last command to be equivalent to the fallowing two command:
 git branch(show all branches)
 git merge dev(merge 'dev' to current branch)
 git branch -d dev(delete branch 'dev')
-Creating a new branch is quick and simple.
+git log --graph --pretty=oneline --abbrev-commit(show branch merge situation)
