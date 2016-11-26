@@ -36,3 +36,4 @@ delete remote tag:
 	1、git tag -d v0.9
 	2、git push origin :refs/tags/v0.9
 
+git config --global alias.st status(create alias)
